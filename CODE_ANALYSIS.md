@@ -82,9 +82,9 @@ I took the initiative to implement the CSS in Javascript with **an approach whic
 
 _We are aware of this kind of organization can scale. I just initiate the work..._
 
-**1. Implementing globals, utilities styles on a `utils/css` folder** (could possibly have a theme, a grid system and so much...)
-**2. Keeping the possibility to use any additional package for styling** as I do using MaterialUI.
-**3. Having a real component approach even for our styles**, thinking to keep the files architecture well organized.
+1. **Implementing globals, utilities styles on a `utils/css` folder** (could possibly have a theme, a grid system and so much...)
+2. **Keeping the possibility to use any additional package for styling** as I do using MaterialUI.
+3. **Having a real component approach even for our styles**, thinking to keep the files architecture well organized.
 
 <br>
 <br>
@@ -184,7 +184,7 @@ There's a need of refactoring, I will, on the next days establish a list of prio
 
 ---
 
-### **NOTES:**
+## NOTES:
 
 #### About GET DATE UI FORMAT function
 
