@@ -1,8 +1,6 @@
 /**
  * @function getDateUIFormat
  * @param (string) - take string at ISO 801 format
- * @param (callback) - take a `callback`
- * @param (callback) - take a second `callback`
  * @return (string) - returns the final string formatted
  */
 export const getDateUIFormat = (str: string): string => {
@@ -44,5 +42,5 @@ export const getDateUIFormat = (str: string): string => {
 }
 /*
 const date1 = "2021-03-04T12:28:55.319Z"
-getDateUIFormat(date1, dateToTimeString, removeFirstStringTypo)
+getDateUIFormat(date1)
 */
