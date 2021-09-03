@@ -8,16 +8,16 @@
 
 ## Getting Started
 
-**. clone or download the repo** at `https://github.com/CodeIsaMystic/<repo>`
-**. on the terminal`cd redux-ts`app** by the command
-**. install dependencies** on`node_modules`with the command`$ npm install`
-**.finally run the script `npm start`** to launch the app
+. **clone or download the repo** at `https://github.com/CodeIsaMystic/locations-feature`
+. **on the terminal by the command `$ cd all-locations-repo`app** 
+. **install dependencies** on`node_modules`with the command`$ npm install`
+. **finally run the script `$ npm start`** to launch the app
 
 ### About scripts
 
-**. `yarn start`** Runs the app in the development mode.
-**. `yarn test`** Launches the test runner in the interactive watch mode.
-**. `yarn build`** Builds the app for production to the `build` folder.
+. **`yarn start`** Runs the app in the development mode.
+. **`yarn test`** Launches the test runner in the interactive watch mode.
+. **`yarn build`** Builds the app for production to the `build` folder.
 
 <br>
 <br>
